@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyanZafar0699
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...C++
+- 👀 I’m interested in ...HTML,CSS,JAVASCRIPT
+- 🌱 I’m currently learning ...CSS
 - 💞️ I’m looking to collaborate on ...idk
 - 📫 How to reach me ...by email
 - 😄 Pronouns: ...HE
